@@ -1,7 +1,7 @@
 
   
 def addition(num1, num2)
-  puts "addition operator"
+   "addition operator"
   puts(num1 + num2)
 end
 
@@ -22,5 +22,6 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  
+  puts "square_root"
+  Math.sqrt(num)
 end
