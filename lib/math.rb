@@ -1,7 +1,7 @@
 
   
 def addition(num1, num2)
-  puts "addition"
+  puts "#addition"
   puts(num1 + num2)
 end
 
